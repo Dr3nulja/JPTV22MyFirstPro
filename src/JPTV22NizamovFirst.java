@@ -11,6 +11,9 @@ public class JPTV22NizamovFirst {
         System.out.println("Enter your lastname123123123");
         String lastname = scanner.nextLine();
         System.out.println("Hello " + " " + firstname + " " + lastname);
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
     }
     
 }
